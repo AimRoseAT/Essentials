@@ -1,0 +1,4 @@
+name: Essentials
+version: '${project.version}'
+main: dev.aimrose.spigot.Main
+authors: [ AimRose ]
